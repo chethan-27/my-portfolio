@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website showcasing my work, skills, and experience as a Full Stack Developer.
 
 ## 🌐 Live Portfolio
-👉 https://my-portfolio-a0uditsv6-chethan-27s-projects.vercel.app/
+👉 https://my-portfolio-orcin-ten-52.vercel.app/
 
 ---
 
